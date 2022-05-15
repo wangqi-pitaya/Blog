@@ -1,0 +1,1 @@
+import{j as e}from"./index.845020c2.js";function o(){return e("div",{style:{width:"100%",height:"100%",backgroundColor:"#000",color:"#fff",display:"flex",alignItems:"center",justifyContent:"center",flexDirection:"column"},children:e("h2",{style:{color:"#fff"},children:"Vite + React + React-Router v6"})})}export{o as default};
