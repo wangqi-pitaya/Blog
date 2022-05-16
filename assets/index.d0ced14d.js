@@ -1,0 +1,1 @@
+import{j as a,a as e}from"./index.c2779d38.js";const n="blog-index";function s(){return a("div",{className:n,children:[e("h1",{children:"Welcome"}),e("h2",{children:"wangqi-pitaya's blog"})]})}export{n as PREFIX_CLASS,s as default};
